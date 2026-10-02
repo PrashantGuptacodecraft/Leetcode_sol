@@ -51,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0020-valid-parentheses) |
+## Graph Theory
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->
