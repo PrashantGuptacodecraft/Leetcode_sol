@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0922-sort-array-by-parity-ii) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0056-merge-intervals) |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0922-sort-array-by-parity-ii) |
 ## Heap (Priority Queue)
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0118-pascals-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
