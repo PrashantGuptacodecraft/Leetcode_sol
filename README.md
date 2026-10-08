@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0922-sort-array-by-parity-ii) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0922-sort-array-by-parity-ii) |
 ## Heap (Priority Queue)
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0922-sort-array-by-parity-ii) |
 ## String
 |  |
@@ -71,8 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
