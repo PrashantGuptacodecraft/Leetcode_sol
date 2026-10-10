@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0142-linked-list-cycle-ii) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0922-sort-array-by-parity-ii) |
 ## String
 |  |
@@ -91,9 +92,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0203-remove-linked-list-elements) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0203-remove-linked-list-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
