@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0922-sort-array-by-parity-ii) |
 | [1052-grumpy-bookstore-owner](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1052-grumpy-bookstore-owner) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0142-linked-list-cycle-ii) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
