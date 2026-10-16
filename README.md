@@ -117,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0724-find-pivot-index) |
+## Math
+|  |
+| ------- |
+| [3783-mirror-distance-of-an-integer](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3783-mirror-distance-of-an-integer) |
 <!---LeetCode Topics End-->
