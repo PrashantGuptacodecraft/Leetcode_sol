@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1052-grumpy-bookstore-owner) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
 |  |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0922-sort-array-by-parity-ii) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -119,8 +122,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0724-find-pivot-index) |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Math
 |  |
 | ------- |
 | [3783-mirror-distance-of-an-integer](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3783-mirror-distance-of-an-integer) |
+## Greedy
+|  |
+| ------- |
+| [2389-longest-subsequence-with-limited-sum](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2389-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
