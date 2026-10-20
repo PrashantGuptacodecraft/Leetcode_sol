@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0118-pascals-triangle) |
+| [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -33,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -41,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -49,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
@@ -113,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -134,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
