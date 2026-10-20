@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0922-sort-array-by-parity-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1052-grumpy-bookstore-owner) |
 ## Linked List
 |  |
