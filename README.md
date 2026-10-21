@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1052-grumpy-bookstore-owner) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 ## Linked List
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
