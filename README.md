@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0020-valid-parentheses) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
