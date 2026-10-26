@@ -73,15 +73,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3798-largest-even-number](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3798-largest-even-number) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Quickselect
 |  |
