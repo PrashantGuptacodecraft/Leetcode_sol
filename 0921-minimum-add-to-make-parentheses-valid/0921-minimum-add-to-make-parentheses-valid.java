@@ -16,7 +16,7 @@ class Solution {
             }
 
         }
-        return Math.abs(count+st.size());
+        return count+st.size();
         
     }
 }
