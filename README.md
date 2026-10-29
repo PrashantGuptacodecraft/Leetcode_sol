@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0374-guess-number-higher-or-lower) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
