@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0203-remove-linked-list-elements) |
 ## Hash Table
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0172-factorial-trailing-zeroes) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
