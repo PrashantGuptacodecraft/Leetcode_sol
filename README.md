@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0118-pascals-triangle) |
 | [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0724-find-pivot-index) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0172-factorial-trailing-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
