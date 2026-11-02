@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0202-happy-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0922-sort-array-by-parity-ii) |
 ## String
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0202-happy-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
