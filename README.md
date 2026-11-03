@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2260-minimum-consecutive-cards-to-pick-up) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Divide and Conquer
 |  |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0202-happy-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/PrashantGuptacodecraft/Leetcode_sol/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
